@@ -1,7 +1,7 @@
 <h1 align="center">🧐 SearchEmoji</h1>
 <p align="center">🔍Search for Emoji, 🖱️Click to Copy - Emoji Search Engine Supporting 30 Languages</p>
 
-<p align="center"><a href="https://searchemoji.app/">👉 Visit Website</a></p>
+<p align="center"><a href="https://emoji.imbyter.com/">👉 预览访问</a></p>
 
 ![SearchEmoji](./assets/screenshot.jpg)
 
@@ -26,4 +26,7 @@ pnpm run dev
 
 # build for production
 pnpm run build
+
+# deployment projects
+node .output/server/index.mjs
 ```
